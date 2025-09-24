@@ -1,0 +1,13 @@
+<svg viewBox="0 0 89.8894 47" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="89.889404" height="47.000000" fill="none" customFrame="#000000">
+	<defs>
+		<linearGradient id="paint_linear_1" x1="11.6590147" x2="11.6590147" y1="-1.28166652e-15" y2="41.8624039" gradientUnits="userSpaceOnUse">
+			<stop stop-color="rgb(245,189,82)" offset="0" stop-opacity="1" />
+			<stop stop-color="rgb(245,218,121)" offset="1" stop-opacity="1" />
+		</linearGradient>
+	</defs>
+	<g id="logo">
+		<path id="Vector 26 (Stroke)" d="M17.8526 0L23.318 3.53437L13.5849 17.6963L23.3179 17.6963L14.3215 29.7794L5.32509 41.8624L4.29885e-05 38.1319L5.23566 31.0999L10.4713 24.068L1.31124 24.068L17.8526 0Z" fill="url(#paint_linear_1)" fill-rule="evenodd" transform="matrix(0.951692,-0.307053,0.307053,0.951692,54.8438,7.15988)" />
+		<path id="Subtract" d="M66.2442 12.0463L63.7055 3.02905L56.6756 3.02905L50.0006 26.8109L45.2182 3.02905L35.8225 3.02905L45.083 39.5811L53.262 39.5811L60.186 15.9889L62.7186 24.6071L66.2442 12.0463Z" fill="rgb(255,255,255)" fill-rule="evenodd" />
+		<path id="Subtract" d="M41.0176 32.9604L39.3325 39.6477L31.1831 39.6477L24.2752 16.0126L17.3764 39.6477L9.22698 39.6477L0 3.02905L9.36168 3.02905L14.1267 26.8542L20.7775 3.02905L27.782 3.02905L34.446 26.8285L36.6489 15.7167L41.0176 32.9604Z" fill="rgb(201.875,201.875,201.875)" fill-rule="evenodd" />
+	</g>
+</svg>
