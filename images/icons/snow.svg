@@ -1,0 +1,35 @@
+<svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32.000000" height="32.000000" fill="none">
+	<defs>
+		<clipPath id="clipPath_3">
+			<rect width="32.000000" height="32.000000" x="0.000000" y="0.000000" fill="rgb(255,255,255)" />
+		</clipPath>
+	</defs>
+	<rect id="Color=Off" width="32.000000" height="32.000000" x="0.000000" y="0.000000" />
+	<g id="32icon-grid" opacity="0" clip-path="url(#clipPath_3)" customFrame="url(#clipPath_3)">
+		<rect id="32icon-grid" width="32.000000" height="32.000000" x="0.000000" y="0.000000" opacity="0" fill="rgb(255,255,255)" fill-opacity="0" />
+		<g id="Group 156" opacity="0.899999976">
+			<rect id="Rectangle 908" width="20.000000" height="28.000000" x="6.000000" y="2.000000" fill="rgb(196,196,196)" fill-opacity="0" />
+			<rect id="Rectangle 908" width="20.000000" height="28.000000" x="6.000000" y="2.000000" stroke="rgb(248,204,213)" stroke-opacity="0.330000013" stroke-width="0.100000001" />
+			<rect id="Rectangle 911" width="16.000000" height="16.000000" x="8.000000" y="8.000000" fill="rgb(196,196,196)" fill-opacity="0" />
+			<rect id="Rectangle 911" width="16.000000" height="16.000000" x="8.000000" y="8.000000" stroke="rgb(248,204,213)" stroke-opacity="0.330000013" stroke-width="0.100000001" />
+			<path id="Rectangle 909" d="M30 6L30 26L2 26L2 6L30 6Z" fill="rgb(196,196,196)" fill-opacity="0" fill-rule="nonzero" />
+			<path id="Rectangle 909" d="M30 26L2 26L2 6L30 6L30 26Z" fill-rule="nonzero" stroke="rgb(248,204,213)" stroke-opacity="0.330000013" stroke-width="0.100000001" />
+			<path id="Rectangle 910" d="M28 4L28 28L4 28L4 4L28 4Z" fill="rgb(196,196,196)" fill-opacity="0" fill-rule="nonzero" />
+			<path id="Rectangle 910" d="M28 28L4 28L4 4L28 4L28 28Z" fill-rule="nonzero" stroke="rgb(248,204,213)" stroke-opacity="0.330000013" stroke-width="0.100000001" />
+			<circle id="Ellipse 48" cx="16" cy="16" r="14" fill="rgb(196,196,196)" fill-opacity="0" />
+			<circle id="Ellipse 48" cx="16" cy="16" r="14" stroke="rgb(248,204,213)" stroke-opacity="0.330000013" stroke-width="0.100000001" />
+			<circle id="Ellipse 46" cx="16" cy="16" r="8" fill="rgb(196,196,196)" fill-opacity="0" />
+			<circle id="Ellipse 46" cx="16" cy="16" r="8" stroke="rgb(248,204,213)" stroke-opacity="0.330000013" stroke-width="0.100000001" />
+			<path id="Vector 25" d="M0 0L32 32" stroke="rgb(248,204,213)" stroke-opacity="0.330000013" stroke-width="0.100000001" />
+			<path id="Vector 27" d="M0 0L32 0" stroke="rgb(248,204,213)" stroke-opacity="0.330000013" stroke-width="0.100000001" transform="matrix(2.07388e-07,1,-1,2.56035e-07,16,0)" />
+			<path id="Vector 29" d="M0 0L32 0" stroke="rgb(248,204,213)" stroke-opacity="0.330000013" stroke-width="0.100000001" transform="matrix(2.07388e-07,1,-1,2.56035e-07,11,0)" />
+			<path id="Vector 32" d="M0 0L32 0" stroke="rgb(248,204,213)" stroke-opacity="0.330000013" stroke-width="0.100000001" transform="matrix(-1,1.68048e-07,-2.07466e-07,-1,32,11)" />
+			<path id="Vector 30" d="M0 0L32 0" stroke="rgb(248,204,213)" stroke-opacity="0.330000013" stroke-width="0.100000001" transform="matrix(2.07388e-07,1,-1,2.56035e-07,21,0)" />
+			<path id="Vector 33" d="M0 0L32 0" stroke="rgb(248,204,213)" stroke-opacity="0.330000013" stroke-width="0.100000001" transform="matrix(-1,1.68048e-07,-2.07466e-07,-1,32,21)" />
+			<path id="Vector 28" d="M0 0L32 0" stroke="rgb(248,204,213)" stroke-opacity="0.330000013" stroke-width="0.100000001" transform="matrix(-1,-3.93402e-08,4.85682e-08,-1,32,16)" />
+			<path id="Vector 26" d="M0 0L32 32" stroke="rgb(248,204,213)" stroke-opacity="0.330000013" stroke-width="0.100000001" transform="matrix(-1,0,0,1,32,0)" />
+		</g>
+	</g>
+	<path id="for edit" d="M16.9868 4L16.9868 5.79629L19.4554 4.00466L20.6301 5.62327L16.9868 8.26755L16.9868 14.251L22.1279 11.244L22.5611 6.78729L24.5419 6.97248L24.2471 10.0045L25.757 9.12142L26.7472 10.859L25.208 11.7593L28.0005 13.0412L27.1684 14.8715L23.0888 12.9988L17.9556 16.0012L23.1047 19.0128L27.1575 17.1525L27.9896 18.9828L25.2239 20.2523L26.7452 21.1422L25.7549 22.8798L24.2333 21.9898L24.531 25.0515L22.5502 25.2367L22.1141 20.7503L16.9868 17.7514L16.9868 23.7527L20.6069 26.3801L19.4321 27.9988L16.9868 26.224L16.9868 28L14.9868 28L14.9868 26.2241L12.5417 27.9988L11.3669 26.3801L14.9868 23.7528L14.9868 17.7376L9.87097 20.7298L9.43493 25.2156L7.45421 25.0305L7.75177 21.9693L6.2305 22.859L5.24022 21.1214L6.76174 20.2315L3.99561 18.9618L4.82766 17.1314L8.88094 18.992L13.9944 16.0012L8.86719 13.0023L4.84051 14.8507L4.00846 13.0204L6.74798 11.7628L5.23821 10.8798L6.2285 9.14217L7.76749 10.0423L7.46706 6.95168L9.44778 6.7665L9.88669 11.2818L14.9868 14.2648L14.9868 8.23371L11.3902 5.62327L12.565 4.00466L14.9868 5.76246L14.9868 4L16.9868 4Z" opacity="0" fill="rgb(51.8936,51.4781,72.25)" fill-rule="evenodd" />
+	<path id="outline" d="M13.9944 16.0012L8.88094 18.992L4.82766 17.1314L3.99561 18.9618L6.76174 20.2315L5.24022 21.1214L6.2305 22.859L7.75177 21.9693L7.45421 25.0305L9.43493 25.2156L9.87098 20.7298L14.9868 17.7376L14.9868 23.7528L11.3669 26.3801L12.5417 27.9988L14.9868 26.2241L14.9868 28L16.9868 28L16.9868 26.224L19.4321 27.9988L20.6069 26.3801L16.9868 23.7527L16.9868 17.7514L22.1141 20.7503L22.5502 25.2367L24.531 25.0515L24.2333 21.9898L25.7549 22.8798L26.7452 21.1422L25.2239 20.2523L27.9896 18.9828L27.1575 17.1525L23.1047 19.0128L17.9556 16.0012L23.0888 12.9988L27.1684 14.8715L28.0005 13.0412L25.208 11.7593L26.7472 10.859L25.757 9.12142L24.2471 10.0045L24.5419 6.97248L22.5611 6.78729L22.1279 11.244L16.9868 14.251L16.9868 8.26755L20.6301 5.62327L19.4554 4.00466L16.9868 5.79629L16.9868 4L14.9868 4L14.9868 5.76246L12.565 4.00466L11.3902 5.62327L14.9868 8.23371L14.9868 14.2648L9.88669 11.2818L9.44778 6.7665L7.46706 6.95168L7.76749 10.0423L6.2285 9.14217L5.23821 10.8798L6.74798 11.7628L4.00846 13.0204L4.84051 14.8507L8.86719 13.0023L13.9944 16.0012Z" fill="rgb(255,255,255)" fill-rule="evenodd" />
+</svg>
